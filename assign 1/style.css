@@ -1,0 +1,16 @@
+.bar {
+    height: 100px;       /* height of each bar */
+    width: 100%;         /* full width */
+}
+
+.bar1 {
+    background: red;
+}
+
+.bar2 {
+    background: blue;
+}
+
+.bar3 {
+    background: green;
+}

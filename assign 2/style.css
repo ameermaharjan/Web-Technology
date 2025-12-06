@@ -1,0 +1,20 @@
+/* Navigation bar styling */
+.navbar {
+    background-color: #333;
+    padding: 10px;      /* space inside nav bar */
+}
+
+/* Styling for each link */
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;       /* space between links */
+    padding: 8px 12px;  /* space inside link box */
+    display: inline-block;
+}
+
+/* Hover effect */
+.navbar a:hover {
+    background-color: #555;
+    border-radius: 4px;
+}
